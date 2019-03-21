@@ -1,0 +1,43 @@
+body {
+    color: #992900;
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+.top-header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.day-one {
+    text-align: center;
+    margin: 20px;
+}
+
+.content-for-people {
+    text-indent: 2em;
+    text-align: left;
+    width: 75%;
+    margin-left: 12em;
+}
+
+.goals {
+    margin-top: 50px;
+    text-align: center;
+    list-style-position: inside;
+    border: 2px solid grey;
+}
+
+.motivate {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.witch {
+    display: block;
+    margin: 50px auto;
+}
